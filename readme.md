@@ -13,15 +13,15 @@ Le Chen, David Barber, Jean-Marc Odobez, "Dynamical Dirichlet Mixture Model", ID
 # For Octave
 * If you want to run the codes under [Octave](https://www.gnu.org/software/octave/index), you need
 	to install the statistics package. For Ubuntu, you need to run
-	```
+```
 sudo apt-get install octave-statistics
-	```
+```
 * You need to load the package at the beginning:	`pkg load statistics`. For example, start Octave in the
 	directory [source_codes](./source_codes) and run:
-		```
+```
 octave:> pkg load statistics
 octave:> run("Script_Test_EstHMMDM.m")
-		```
+```
 
 
 # Others
